@@ -1,0 +1,36 @@
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.input-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.box {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 32px;
+  width: 200px;
+  height: 200px;
+  border: 1px solid black;
+}
+
+.information-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.div-wrapper {
+  margin-top: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
